@@ -4,7 +4,7 @@ import Counter from './Counter';
 const propTypes = {
 
 };
-csr
+
 const defaultProps = {
 
 };
